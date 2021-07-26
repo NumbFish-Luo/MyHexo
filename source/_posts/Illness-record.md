@@ -1,9 +1,9 @@
 ---
 title: 病情记录日历
 tags:
-- Illness record
+- Illness-record
 categories:
-- Illness record
+- Illness-record
 ---
 
 记录表颜色：
