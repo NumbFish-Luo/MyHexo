@@ -4,6 +4,7 @@ title: NumbFish
 author: NumbFish
 logo_img: /img/Head.png # put the logo on the ${blog_path}/source/img/${picname}.png or use urls
 author_img: /img/Head.png
+description:
 #------------------------
 # Navbar config
 #------------------------
