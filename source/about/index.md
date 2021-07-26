@@ -1,5 +1,6 @@
 ---
-title: About me
+title: 关于
+layout: about
 ---
 
 🤖创客
