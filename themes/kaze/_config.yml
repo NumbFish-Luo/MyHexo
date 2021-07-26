@@ -17,7 +17,7 @@ menus:
   friends: /links
 
 about:
-  description: description
+  description: 
   social_links:
     - { icon: icon-github, link: https://github.com/NumbFish-Luo }
     # - { icon: icon, link: your link }
