@@ -1,5 +1,5 @@
 ---
-title: 病情记录日历
+title: 记录日历
 toc: false
 password: 2818450
 abstract: 文章被加密，请输入密码
@@ -7,12 +7,16 @@ message: 文章被加密，请输入密码
 wrong_pass_message: 密码错误
 wrong_hash_message: 文章校验错误，不过您还是能看看解密后的内容
 tags:
-- Illness-record
+- calendar
 categories:
-- Illness-record
+- calendar
 banner_img: /img/The-Starry-Night.png
 banner_img_set: /img/The-Starry-Night.png
 ---
+
+【文章被加密，请输入密码】
+
+# 病情记录日历
 
 记录表颜色：
 

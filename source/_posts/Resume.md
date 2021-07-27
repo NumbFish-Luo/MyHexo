@@ -14,6 +14,8 @@ banner_img: /img/Resume.png
 banner_img_set: /img/Resume.png
 ---
 
+【文章被加密，请输入密码】
+
 ## 个人信息
 
 - **罗泽奇 / 男 / 1996-06-04**
