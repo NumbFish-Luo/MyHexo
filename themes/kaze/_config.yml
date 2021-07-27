@@ -17,7 +17,7 @@ menus:
   friends: /links
 
 #------------------------
-# Security
+# Security https://blog.csdn.net/crazy_scott/article/details/80996427
 #------------------------
 encrypt:
   enable: true
