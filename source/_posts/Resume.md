@@ -1,7 +1,6 @@
 ---
 title: 简历
-toc: false
-password: 2818450
+password: nf_open_resume
 abstract: 文章被加密，请输入密码
 message: 文章被加密，请输入密码
 wrong_pass_message: 密码错误
@@ -13,8 +12,6 @@ categories:
 banner_img: /img/Resume.png
 banner_img_set: /img/Resume.png
 ---
-
-【文章被加密，请输入密码】
 
 ## 个人信息
 
