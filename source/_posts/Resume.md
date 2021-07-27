@@ -4,6 +4,8 @@ tags:
 - Resume
 categories:
 - Resume
+banner_img: /img/Resume.png
+banner_img_set: /img/Resume.png
 ---
 
 ## 个人信息
