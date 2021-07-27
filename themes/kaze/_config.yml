@@ -6,7 +6,7 @@ logo_img: /img/Head.png # put the logo on the ${blog_path}/source/img/${picname}
 author_img: /img/Head.png
 description:
 #------------------------
-# Navbar config
+# Navbar config https://blog.csdn.net/crazy_scott/article/details/80996427
 #------------------------
 menus:
   home: /
@@ -16,11 +16,17 @@ menus:
   about: /about
   friends: /links
 
+#------------------------
+# Security
+#------------------------
+encrypt:
+  enable: true
+
 about:
   description: 
   social_links:
     - { icon: icon-github, link: https://github.com/NumbFish-Luo }
-    - { icon: icon-qq, link: https://qm.qq.com/cgi-bin/qm/qr?k=jMHIurkPCQcnwAhiD_yPwZLRoNokc7vu&noverify=0 }
+    - { icon: icon-qq, link: /img/QQQR.jpg }
     - { icon: icon-wechat, link: /img/WechatQR.jpg }
     # - { icon: icon, link: your link }
 

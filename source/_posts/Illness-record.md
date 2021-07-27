@@ -1,5 +1,6 @@
 ---
 title: 病情记录日历
+password: 2818450
 tags:
 - Illness-record
 categories:

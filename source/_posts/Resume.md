@@ -1,5 +1,6 @@
 ---
 title: 简历
+password: 2818450
 tags:
 - Resume
 categories:
