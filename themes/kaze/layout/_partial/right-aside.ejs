@@ -1,6 +1,6 @@
 <div class="sticky-widescreen">
   <%# toc card %>
-  <% if(is_post() && page.toc !== false && post.encrypt == true) { %>
+  <% if(is_post() && page.toc !== false) { %>
   <article class="card card-content toc-card">
     <%- partial('_partial/toc-card') %>
   </article>
