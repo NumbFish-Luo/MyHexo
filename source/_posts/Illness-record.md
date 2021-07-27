@@ -4,8 +4,8 @@ tags:
 - Illness-record
 categories:
 - Illness-record
-banner_img: /img/Medical-records.png
-banner_img_set: /img/Medical-records.png
+banner_img: /img/The-Starry-Night.png
+banner_img_set: /img/The-Starry-Night.png
 ---
 
 记录表颜色：
