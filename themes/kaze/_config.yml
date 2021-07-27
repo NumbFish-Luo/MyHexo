@@ -20,7 +20,7 @@ about:
   description: 
   social_links:
     - { icon: icon-github, link: https://github.com/NumbFish-Luo }
-    - { icon: /img/QQ.png, link: https://qm.qq.com/cgi-bin/qm/qr?k=jMHIurkPCQcnwAhiD_yPwZLRoNokc7vu&noverify=0 }
+    - { icon: "/img/QQ.png", link: https://qm.qq.com/cgi-bin/qm/qr?k=jMHIurkPCQcnwAhiD_yPwZLRoNokc7vu&noverify=0 }
     - { icon: icon-wechat, link: /img/WechatQR.jpg }
     # - { icon: icon, link: your link }
 
