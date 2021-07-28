@@ -1,5 +1,6 @@
 ---
 title: 简历
+date: 2021-07-27 13:00:00
 toc: false
 password: nf_open_resume
 abstract: 文章被加密，请输入密码
