@@ -5,8 +5,8 @@ tags:
 - Game-Jam
 categories:
 - Game-Jam
-banner_img: /img/2021CGJ/Title.png
-banner_img_set: /img/2021CGJ/Title.png
+banner_img: /img/2021CGJ/GameTitle.png
+banner_img_set: /img/2021CGJ/GameTitle.png
 ---
 
 # CGJ题图
