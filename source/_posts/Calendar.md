@@ -1,5 +1,6 @@
 ---
 title: 记录日历
+toc: true
 password: 2818450
 abstract: 文章被加密，请输入密码
 message: 文章被加密，请输入密码
