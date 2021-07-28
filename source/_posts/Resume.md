@@ -1,6 +1,6 @@
 ---
 title: 简历
-toc: true
+toc: false
 password: nf_open_resume
 abstract: 文章被加密，请输入密码
 message: 文章被加密，请输入密码
