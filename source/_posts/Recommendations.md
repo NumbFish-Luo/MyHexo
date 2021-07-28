@@ -39,5 +39,5 @@ banner_img_set: /img/Aranya.jpg
 | Mindustry                               | 游戏         | 建造资源运输线，建造防御塔，抵御敌人入侵的塔防游戏。steam有售 | https://anuke.itch.io/mindustry                              |
 | Kraftwerk                               | 乐队         | 60年代末的德国前卫摇滚、实验电子                             | http://www.kraftwerk.com/                                    |
 | Nazo_Game                               | 游戏         | 运用电脑知识、语言学、梗等等的解谜游戏                       | http://nazo.one-story.cn/                                    |
-| EYEZMAZE                                | 个人游戏网站 | 很有趣的游戏网站，站长是一位日本的游戏开发者，Grow系列游戏的制作人 | http://www.zh-tw.eyezmaze.com/                               |
+| EYEZMAZE                                | 个人游戏网站 | 很有趣的游戏网站，站长是一位日本的游戏开发者，Grow系列游戏的制作人 | http://www.eyezmaze.com/                                     |
 | http://ikyo.ys168.com/                  | 怀旧游戏     | 里面包含了FC游戏大全，Famitracker汉化之类的东西              | http://ikyo.ys168.com/                                       |
