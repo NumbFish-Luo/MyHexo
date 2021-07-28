@@ -13,7 +13,7 @@ banner_img_set: /img/2021CGJ/GameTitle.png
 
 
 
-![拉火车的小夫（发型很像小夫）](\img\2021CGJ\CGJTitle.jpg)
+![拉火车的小夫（发型很像小夫）](/img/2021CGJ/CGJTitle.jpg)
 
 # 游戏背景简介
 
