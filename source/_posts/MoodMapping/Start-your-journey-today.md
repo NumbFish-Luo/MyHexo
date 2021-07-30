@@ -1,5 +1,5 @@
 ---
-title: MoodMapping：从今日启程
+title: MoodMapping(1)：从今日启程
 date: 2021-07-30 15:00:00
 toc: true
 tags:

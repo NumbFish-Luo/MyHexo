@@ -1,5 +1,5 @@
 ---
-title: MoodMapping：MoodMapping：如果你正在走过地狱，请你继续不断地走下去
+title: MoodMapping(2)：如果你正在走过地狱，请你继续不断地走下去
 date: 2021-07-30 17:00:00
 toc: true
 tags:
