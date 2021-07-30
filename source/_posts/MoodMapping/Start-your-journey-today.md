@@ -11,6 +11,7 @@ banner_img_set: /img/PinkCloud.jpg
 ---
 
 > 原文：www.moodmapping.com/uncategorized/hello-world/
+> Start your journey today
 > September 19, 2016 by Dr Liz Miller
 
 > Understanding how you feel and how your mood impacts your health and wellbeing is an essential life skill. It is a skill as basic as driving.  It is the start of self-knowledge It begins with understanding how you feel, and why you feel that way. MoodMapping is a way to navigate through life’s ups and downs and feel in charge rather than buffeted by every change in wind and fortune..
