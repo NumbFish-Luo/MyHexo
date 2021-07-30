@@ -44,3 +44,5 @@ banner_img_set: /img/Aranya.jpg
 | EYEZMAZE                                | 个人游戏网站   | 很有趣的游戏网站，站长是一位日本的游戏开发者，Grow系列游戏的制作人 | http://www.eyezmaze.com/                                     |
 | http://ikyo.ys168.com/                  | 怀旧游戏       | 里面包含了FC游戏大全，Famitracker汉化之类的东西              | http://ikyo.ys168.com/                                       |
 | donjon                                  | 随机地图生成器 | RPG游戏制作必备！随机世界地图生成器                          | http://donjon.bin.sh/                                        |
+| TinyPNG                                 | 压图工具       | TinyPNG使用智能有损压缩技术将您的PNG文件的**文件大小降低**。 通过选择性的减少图片中的颜色，只需要很少的字节数就能保存数据。 对视觉的影响几乎不可见，但是在文件大小上有非常大的差别 | https://tinify.cn/                                           |
+
