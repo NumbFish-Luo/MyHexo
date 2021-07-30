@@ -45,6 +45,8 @@ banner_img_set: /img/The-Starry-Night.png
 |   29 |  19🔴 |  20🔴 |  21🔴 |  22🔴 |  23🟠 |  24🟢 |  25🟢 |
 |   30 |  26🟢 |  27🟢 |  28🟢 |  29🟠 |  30🟠 |  31⚫ |      |
 
+> “心境地图”（Mood Mapping）疗法：www.moodmapping.com
+
 2021/8
 
 |   周 |   一 |   二 |   三 |   四 |   五 |   六 |   日 |
