@@ -6,8 +6,8 @@ tags:
 - MoodMapping
 categories:
 - MoodMapping
-banner_img: /img/PinkCloud.jpg
-banner_img_set: /img/PinkCloud.jpg
+banner_img: /img/Barge-Haulers-on-the-Volga.jpg
+banner_img_set: /img/Barge-Haulers-on-the-Volga.jpg
 ---
 
 > 原文：www.moodmapping.com/uncategorized/second-post-of-the-day/
