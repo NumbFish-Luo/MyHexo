@@ -20,7 +20,7 @@ banner_img_set: /img/PinkCloud.jpg
 
 > This website is designed to help you learn, understand and make your own mood maps. It is accompanied by videos and podcasts that have been designed for you to help you make the most of your life opportunities
 
-这是个被设计来帮助你学习、理解与制作你的心境地图的网站（www.moodmapping.com），它还配有专门为您设计的视频和播客，帮助你充分利用人生机会。
+这是个被设计来帮助你学习、理解与制作你的心境地图的网站（ www.moodmapping.com ），它还配有专门为您设计的视频和播客，帮助你充分利用人生机会。
 
 > Dr Liz Miller created MoodMaps in the 1990s. She has been teaching mood mapping for more than twenty years. Her book MoodMapping, published in 2009, by MacMillan is available on Amazon, in all formats
 
