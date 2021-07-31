@@ -1,6 +1,6 @@
 ---
 title: MoodMapping(4)：何谓情绪？
-date: 2021-07-30 21:00:00
+date: 2021-07-31 19:00:00
 toc: true
 tags:
 - MoodMapping
@@ -40,7 +40,7 @@ banner_img_set: /img/Moon.jpg
 > 4. Self-expression,  and
 > 5. Strategies we have to influence the world around us.
 > 
->    These five areas are fundamental to mood management. I use them to organise my life. Everything I have and do, can fit into one of those five categories! I organise my filing system, my diary, my to-do lists around those five areas They form the basis of the Keystar, which is a framework for managing your moods
+> These five areas are fundamental to mood management. I use them to organise my life. Everything I have and do, can fit into one of those five categories! I organise my filing system, my diary, my to-do lists around those five areas They form the basis of the Keystar, which is a framework for managing your moods
 
 1. 周围环境，
 2. 身心健康，
