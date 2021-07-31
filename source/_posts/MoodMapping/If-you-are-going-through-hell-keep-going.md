@@ -9,6 +9,7 @@ categories:
 banner_img: /img/Barge-Haulers-on-the-Volga.jpg
 banner_img_set: /img/Barge-Haulers-on-the-Volga.jpg
 ---
+> 封面图：伏尔加河上的纤夫
 
 > 原文：www.moodmapping.com/uncategorized/second-post-of-the-day/
 > If you are going through hell, keep going

@@ -14,6 +14,7 @@ categories:
 banner_img: /img/The-Starry-Night.png
 banner_img_set: /img/The-Starry-Night.png
 ---
+> 封面图：星空夜
 
 # 病情记录日历
 
