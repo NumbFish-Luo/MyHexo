@@ -18,7 +18,7 @@ banner_img_set: /img/Resume.png
 ## 个人信息
 
 - **罗泽奇 / 男 / 1996-06-04**
-- **手机&微信：** 13676052456 （广东珠海）
+- **手机&微信：** 13676052456
 - **Email：** numb_fish@foxmail.com
 - **QQ：** NumbFish / 957441629
 - **Github：** https://github.com/NumbFish-Luo
@@ -101,6 +101,7 @@ banner_img_set: /img/Resume.png
 ## 游戏项目/比赛经历
 
 - **多次Game Jam和游戏开发比赛经历：**
+  - 2021 上海，由Project GC和G4G联合举办的第一届“益·游未尽”Game Jam中，在小队中担任唯一的程序，完成四人同屏游玩的派对游戏作品《气候护卫队》的程序设计；以及担任美术，制作了人类角色的动画。该作品最终获得了前三的名次。
   - 2021 CGJ，上海静安，在小队里同时参与了程序、美术、音乐的制作，作品获得最佳人气奖，作品名《黑we钩》：[https://youxibd.com/v2/gamejam/cgj2021/works/1262](https://youxibd.com/v2/gamejam/cgj2021/works/1262)
   - 2019 CGJ，广州，LEVEL_UP小队作品，以美术身份参加，作品名《What I Want》： https://www.youxibd.com/gamejam/detail/174 （但网页已失效了...）
   - 2019 GGJ，上海闵行，以程序身份参加
