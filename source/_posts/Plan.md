@@ -17,5 +17,7 @@ banner_img_set: /img/Master/0.jpg
 - 学习SQL
 - 学习Command Lisp
 - 做Shader
+- 用Unity做一个颜色渐变实验工具吧
+- 完善简历
 - ...
 
