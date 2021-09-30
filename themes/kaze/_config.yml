@@ -157,6 +157,18 @@ fslightbox:
 # If your hexo version is below 5.0.0, please upgrade first to use this config
 # we support eight highlight themes, you can go to prism website (https://prismjs.com) for more information
 # theme: default | coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
+highlight:
+  enable: false
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: true
+prismjs:
+  enable: true
+  preprocess: true
+  line_number: true
+  tab_replace: ''
 prism:
   theme: tomorrow
 # show the number of words in posts
