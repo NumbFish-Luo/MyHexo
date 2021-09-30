@@ -10,7 +10,7 @@ banner_img: /img/ECG.jpg
 banner_img_set: /img/ECG.jpg
 ---
 
-# 效果
+# 效果预览
 
 这个Shader是比赛的废案，至于为什么是废案？详见文章：[2021 益游未尽 作品——《气候护卫队》](https://numbfish-0g5ok9eq2a9e80fc-1306659420.ap-shanghai.app.tcloudbase.com/2021/09/30/2021YiYouWeiJin/)
 
