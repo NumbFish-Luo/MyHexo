@@ -11,6 +11,19 @@ author: Numbfish
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
+highlight:
+  enable: false
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: true
+prismjs:
+  enable: true
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+
 #------------------------
 # Security https://blog.csdn.net/crazy_scott/article/details/80996427
 #------------------------
