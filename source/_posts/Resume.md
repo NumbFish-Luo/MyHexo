@@ -21,9 +21,8 @@ banner_img_set: /img/Resume.png
 - **手机&微信：** 13676052456
 - **Email：** numb_fish@foxmail.com
 - **QQ：** NumbFish / 957441629
-- **Github：** NumbFish-Luo / https://github.com/NumbFish-Luo
-- **CSDN：** 潜水鳗鱼 / https://blog.csdn.net/qq_35576794
-- **期望职位：** 游戏客户端开发（C++、C#、Unity）
+- **个人网站**：https://numbfish-0g5ok9eq2a9e80fc-1306659420.ap-shanghai.app.tcloudbase.com/
+- **期望职位：** 游戏客户端开发（Unity）
 
 ## 教育水平
 
@@ -45,9 +44,7 @@ banner_img_set: /img/Resume.png
 
 - 工作岗位：cocos creator游戏客户端开发
 
-- 薪资：20k
-
-- 工作内容：《我飞刀玩得贼6》超休闲项目性能优化，《我脸贼大》超休闲项目开发，《掉落漫画世界》女性向AVG项目开发，《救救大明星》女性向AVG项目QQ小游戏渠道接入。（以上项目均可在微信中搜索到小游戏，无需下载游戏APP即可游玩。敬请体验）
+- 工作内容：《我飞刀玩得贼6》超休闲项目性能优化，《我脸贼大》超休闲项目开发，《掉落漫画世界》女性向AVG项目开发，《救救大明星》女性向AVG项目QQ小游戏渠道接入。
 
 ### 2019年7月 ~ 2020年8月：珠海华夏云联技术有限公司
 
@@ -57,8 +54,6 @@ banner_img_set: /img/Resume.png
 - 所属部门：研发部
 
 - 工作岗位：嵌入式软件开发工程师
-
-- 薪资：8k
 
 - 工作内容：对旧的新能源汽车充电桩进行维护和优化；根据提供的通讯协议文档，给设备接入新的后台，并根据后台信息，分析远程设备状态并进行相应处理；研发创新结构的充电桩产品等。
 
@@ -101,7 +96,7 @@ banner_img_set: /img/Resume.png
 ## 游戏项目/比赛经历
 
 - **多次Game Jam和游戏开发比赛经历：**
-  - 2021 上海，由Project GC和G4G联合举办的第一届《益·游未尽》48小时游戏开发嘉年华，在小队中担任唯一的程序，完成四人同屏游玩的派对游戏作品《气候护卫队》的程序设计；以及担任美术，制作了人类角色的动画。该作品最终获得了前三的名次。链接：https://project-gc.itch.io/climategardian
+  - 2021 上海，由Project GC和G4G联合举办的第一届《益·游未尽》48小时游戏开发嘉年华，在小队中担任唯一的程序，完成四人同屏游玩的派对游戏作品《气候护卫队》的程序设计；以及担任美术，制作了人类角色的动画。该作品最终获得了前三的名次，并且获得最佳玩法奖。下载链接：https://project-gc.itch.io/climategardian
   - 2021 CGJ，上海静安，在小队里同时参与了程序、美术、音乐的制作，作品获得最佳人气奖，作品名《黑we钩》：[https://youxibd.com/v2/gamejam/cgj2021/works/1262](https://youxibd.com/v2/gamejam/cgj2021/works/1262)
   - 2019 CGJ，广州，LEVEL_UP小队作品，以美术身份参加，作品名《What I Want》： https://www.youxibd.com/gamejam/detail/174 （但网页已失效了...）
   - 2019 GGJ，上海闵行，以程序身份参加
