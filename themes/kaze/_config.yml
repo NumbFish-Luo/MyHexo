@@ -167,7 +167,7 @@ highlight:
 prismjs:
   enable: false
 prism:
-  theme:
+  theme: tomorrow
 # show the number of words in posts
 wordcount:
   enable: true
