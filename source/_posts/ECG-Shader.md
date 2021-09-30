@@ -160,7 +160,7 @@ Shader "Custom/ECG" {
 
 C#代码的主要工作是传入波形数据数组给Shader
 
-```cs
+```csharp
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
