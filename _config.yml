@@ -18,6 +18,8 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+prism:
+  theme: tomorrow
 
 #------------------------
 # Security https://blog.csdn.net/crazy_scott/article/details/80996427

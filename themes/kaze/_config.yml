@@ -165,9 +165,9 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
-
 prism:
   theme: tomorrow
+
 # show the number of words in posts
 wordcount:
   enable: true
