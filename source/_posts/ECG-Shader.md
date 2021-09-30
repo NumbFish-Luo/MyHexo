@@ -21,7 +21,7 @@ banner_img_set: /img/ECG.jpg
 
 frag中的主要工作是，把所有的效果叠加（波形线条、拖尾特效、闪烁特效、格子）
 
-```Shader Lab
+```GLSL
 Shader "Custom/ECG" {
     Properties {
         [Header(Color Setting)]
