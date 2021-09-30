@@ -10,7 +10,7 @@ banner_img: /img/Master/0.jpg
 banner_img_set: /img/Master/0.jpg
 ---
 
-> 封面图：我家猫猫Master
+> 封面图：我家猫猫Master🤤
 
 - 网页备案
 - 上传作品集
