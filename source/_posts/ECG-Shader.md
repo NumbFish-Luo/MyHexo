@@ -21,7 +21,7 @@ banner_img_set: /img/ECG.jpg
 
 frag中的主要工作是，把所有的效果叠加（波形线条、拖尾特效、闪烁特效、格子）
 
-```GLSL
+```glsl
 Shader "Custom/ECG" {
     Properties {
         [Header(Color Setting)]
@@ -160,7 +160,7 @@ Shader "Custom/ECG" {
 
 C#代码的主要工作是传入波形数据数组给Shader
 
-```C#
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -252,7 +252,7 @@ public class ECG : MonoBehaviour {
 
 代码中的REGULAR_WAVE_ARR数组，来源于一个Python脚本
 
-```Python
+```python
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.signal import savgol_filter
