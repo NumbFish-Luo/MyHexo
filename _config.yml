@@ -13,11 +13,6 @@ timezone: 'Asia/Shanghai'
 
 highlight:
   enable: false
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: true
 prismjs:
   enable: true
   preprocess: true
