@@ -21,7 +21,7 @@ banner_img_set: /img/Resume.png
 - **手机&微信：** 13676052456
 - **Email：** numb_fish@foxmail.com
 - **QQ：** NumbFish / 957441629
-- **Github：** https://github.com/NumbFish-Luo
+- **Github：** NumbFish-Luo / https://github.com/NumbFish-Luo
 - **CSDN：** 潜水鳗鱼 / https://blog.csdn.net/qq_35576794
 - **期望职位：** 游戏客户端开发（C++、C#、Unity）
 
