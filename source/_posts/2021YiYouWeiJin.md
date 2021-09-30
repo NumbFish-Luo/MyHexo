@@ -10,7 +10,7 @@ banner_img: /img/2021YiYouWeiJin/title.jpg
 banner_img_set: /img/2021YiYouWeiJin/title.jpg
 ---
 注意：本文建议关闭暗黑模式，不然有些图片有点暗，切换方式见如下图
-![](/img/2021YiYouWeiJin/ECG.gif)
+![](/img/LightOrDark.gif)
 
 # 规则&主题
 
