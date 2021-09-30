@@ -158,19 +158,14 @@ fslightbox:
 # we support eight highlight themes, you can go to prism website (https://prismjs.com) for more information
 # theme: default | coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
 highlight:
-  enable: true
-  auto_detect: false
-  line_number: true
-  tab_replace: ''
-  wrap: true
-  hljs: false
-prismjs:
   enable: false
+prismjs:
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
 prism:
-  theme:
+  theme: tomorrow
 
 # show the number of words in posts
 wordcount:
