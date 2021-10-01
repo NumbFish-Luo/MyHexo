@@ -14,6 +14,7 @@ banner_img_set: /img/Master/0.jpg
 
 - 网页备案
 - 上传作品集
+- 学习联网
 - 学习SQL
 - 学习Command Lisp
 - 做Shader
