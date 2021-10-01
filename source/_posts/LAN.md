@@ -1,5 +1,5 @@
 ---
-title: Unity卡牌类局域网设计
+title: Unity局域网笔记
 date: 2021-10-02 00:30:00
 toc: true
 tags:
@@ -9,6 +9,9 @@ tags:
 - Network
 categories:
 - Unity
+- CSharp
+- LAN
+- Network
 banner_img: /img/LAN.jpg
 banner_img_set: /img/LAN.jpg
 ---
