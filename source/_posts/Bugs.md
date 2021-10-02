@@ -1,10 +1,11 @@
 ---
 title: 一些Bug...
-date: 2021-10-2 17:10:00
+date: 2021-10-2 17:30:00
 toc: true
-tags: [Bug]
+tags:
+- Bugs
 categories:
-- [Bug]
+- Bugs
 banner_img: /img/RandomText.jpg
 banner_img_set: /img/RandomText.jpg
 ---
