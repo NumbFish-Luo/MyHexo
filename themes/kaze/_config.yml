@@ -134,7 +134,7 @@ comment:
 # choose true to use latex by mathjax or katex
 # warning: latex rendering will put lots of loading burden on page loading
 latex:
-  enable: false
+  enable: true
   engine: mathjax # mathjax | katex
   # for better rendering effect, when you choose mathjax, you can use it directly but you will lose some effect
   # so you can use hexo-renderer-kramed

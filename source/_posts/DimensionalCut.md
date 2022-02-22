@@ -8,8 +8,8 @@ tags:
 - PostEffect
 categories:
 - Unity
-banner_img: /img/DimensionalCut.png
-banner_img_set: /img/DimensionalCut.png
+banner_img: /img/DimensionalCut/DimensionalCut.png
+banner_img_set: /img/DimensionalCut/DimensionalCut.png
 ---
 
 # 一、效果展示
@@ -18,13 +18,15 @@ banner_img_set: /img/DimensionalCut.png
 
 # 二、起因
 
-前段时间刷B站看到的一个DNF刃影的补丁，空间斩，链接：https://www.bilibili.com/video/BV1io4y1D7R6，虽然简单但很有视觉冲击力，因此打算自己也实现一个看看，我的这个就叫次元斩好了！
+前段时间刷B站看到的一个DNF刃影的补丁，空间斩，链接：https://www.bilibili.com/video/BV1io4y1D7R6
+
+虽然简单但很有视觉冲击力，因此打算自己也实现一个看看，我的这个就叫次元斩好了！
 
 # 三、思路
 
 ## 3.1 确定参数
 
-次元斩切开屏幕是一条直线，显然我们可以用点斜式来描述，于是首先有点的坐标x_p、y_p，线的斜率k，为了方便，这里k改用角度制的θ描述，并且限制θ的取值范围为0°到360°，于是我们可以得到直线公式为：
+次元斩切开屏幕是一条直线，显然我们可以用点斜式来描述。于是首先有点的坐标(x_p, y_p)，线的斜率k，为了方便，这里k改用角度制的θ描述，并且限制θ的取值范围为0°到360°，于是我们可以得到直线公式为：
 $$
 f(x)=kx+b\\k=tan(θ*\pi/180)\\b=y_p-kx_p
 $$
@@ -70,7 +72,7 @@ x_o(o)=x+o,θ=90°|θ=270°,x>x_p
 $$
 综上，我们可以由此写出shader程序：
 
-```csharp
+```hlsl
 Shader "Custom/DimensionalCut" {
     Properties {
         _MainTex("Main Texture", 2D) = "" {}
@@ -180,4 +182,4 @@ private void Update() {
 }
 ```
 
-其中的timer变量随时间减小到0，如果使用了次元斩，则timer会被设置为一个定值，表示从斩开到完全恢复所需要的时长。maxOffset表示最大能斩开的程度，实际偏移量offset由timer控制，计算完毕后直接传参数给shader的_Offset属性：`material.SetFloat("_Offset", offset.value)`。bloom由指定最小值（最亮）逐渐线性地变到指定最大值（最暗）
+其中的timer变量随时间减小到0，如果使用了次元斩，则timer会被设置为一个定值，表示从斩开到完全恢复所需要的时长。maxOffset表示最大能斩开的程度，实际偏移量offset由timer控制，计算完毕后直接传参数给shader的_Offset属性：`material.SetFloat("_Offset", offset.value)`。bloom由指定最小值（最亮）逐渐线性地变到指定最大值（最暗）。综合起来便得到了最终效果
