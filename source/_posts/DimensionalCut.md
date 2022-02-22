@@ -161,3 +161,23 @@ Shader "Custom/DimensionalCut" {
 ```
 
 其中由于优化性能的原因，去掉了if判断，改为了性能更优的lerp，step，abs，sign的写法
+
+# 四、控制与视觉反馈优化
+
+以上完成了调整offset参数来完成不同程度屏幕斩开的效果，我们需要再写一个自动调整offset变化的脚本。除此之外，为了更好的视觉反馈，我还添加了切开时有Bloom的效果。
+
+关键代码如下：
+
+```csharp
+private void Update() {
+    timer -= Time.deltaTime;
+    if (timer < 0) {
+        timer = 0;
+    }
+    float percent = (timer / duration);
+    offset = maxOffset * percent;
+    bloom.threshold.SetValue(new MinFloatParameter(minBloomThrehold.value + (maxBloomThrehold.value - minBloomThrehold.value) * (1 - percent), 0));
+}
+```
+
+其中的timer变量随时间减小到0，如果使用了次元斩，则timer会被设置为一个定值，表示从斩开到完全恢复所需要的时长。maxOffset表示最大能斩开的程度，实际偏移量offset由timer控制，计算完毕后直接传参数给shader的_Offset属性：`material.SetFloat("_Offset", offset.value)`。bloom由指定最小值（最亮）逐渐线性地变到指定最大值（最暗）
