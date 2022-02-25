@@ -1,5 +1,5 @@
 <%
-let flag = true;
+let flag = theme.latex.enable;
 if(flag) {
   if(is_page() || is_post()) {
     flag = theme.latex.global || page.latex;
@@ -9,7 +9,7 @@ if(flag) {
 }
 %>
 <% if(flag) { %>
-  <% const engine = 'mathjax'; %>
+  <% const engine = theme.latex.engine; %>
   <% if(engine === 'mathjax') { %>
     <script>
       MathJax = {
