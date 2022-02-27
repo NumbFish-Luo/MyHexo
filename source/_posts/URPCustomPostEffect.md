@@ -22,11 +22,11 @@ banner_img_set: /img/PinkCloud.jpg
 >
 > **通用渲染管线（Universal Render Pipeline，URP）**是一个由Unity官方开发的预构建的**可编程渲染管线（Scriptable Render Pipeline，SRP）**。URP提供了能让你快速轻松地在一系列平台，从手机到高端游戏机和电脑上创建优化图像的艺术家友好型的工作流。
 
-说到URP，就得说SRP是什么，说到SRP就得说RP是什么...这里暂时不表，后续再补充说明，详见https://zhuanlan.zhihu.com/p/103457229
+说到URP，就得说SRP是什么，说到SRP就得说RP是什么...这里暂时按住不表，后续再补充说明，详见https://zhuanlan.zhihu.com/p/103457229
 
 ## 1.2 我为什么用URP
 
-主要原因是因为URP提供了2D光照系统，可以很方便快速地布置光照
+主要原因是因为URP提供了**2D光照系统**，可以很方便快速地布置光照
 
 ## 1.3 怎么切换成URP
 
@@ -36,7 +36,7 @@ banner_img_set: /img/PinkCloud.jpg
 
 ### 1.3.2 新建URPAsset
 
-在Project窗口中，选一个位置右键，点Create/Rendering/Universal Render Pipeline/Pipeline Asset(Forward Renderer)新建一个URPAsset，默认名称是UniversalRenderPipelineAsset，我们可以改名为URPAsset。新建之后还会跟着多出一个叫UniversalRenderPipelineAsset_Renderder的文件，点击URPAsset，可以看到Inspector窗口中的General/RendererList已经自动放好了这个默认的文件。它是一个称之为Forward Renderer的文件，可以在Create/Rendering/中找到。由于我们的后处理特效是通过这个文件来设置的，因此我们可以将这个文件改名为CustomForwardRendererData。
+在Project窗口中，选一个位置右键，点Create/Rendering/Universal Render Pipeline/Pipeline Asset(Forward Renderer)新建一个URPAsset，默认名称是UniversalRenderPipelineAsset，我们可以改名为URPAsset。新建之后还会跟着多出一个叫UniversalRenderPipelineAsset_Renderder的文件，点击URPAsset，可以看到Inspector窗口中的General/RendererList已经自动放好了这个默认的文件。它是一个称之为Forward Renderer的文件，可以在Create/Rendering/中找到。由于我们的后处理特效是通过这个文件来设置的，因此我们可以将这个文件改名为CustomForwardRendererData
 
 ### 1.3.3 切换为默认是支持2D光照的2DRenderer，且保留CustomForwardRendererData
 
