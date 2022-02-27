@@ -139,7 +139,7 @@ latex:
   # for better rendering effect, when you choose mathjax, you can use it directly but you will lose some effect
   # so you can use hexo-renderer-kramed
   # when you choose katex, you must use hexo-renderer-markdown-it-plus or other render engine
-  global: true
+  global: false
   # when you choose false, you can use latex by `latex: true` in post front-matter
 
 #------------------------
