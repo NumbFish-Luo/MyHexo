@@ -11,16 +11,6 @@ author: Numbfish
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
-math:
-  engine: katex
-  katex:
-    css: https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css
-    js: https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js
-    config:
-      # KaTeX config
-      throwOnError: false
-      errorColor: "#cc0000"
-
 #------------------------
 # Security https://blog.csdn.net/crazy_scott/article/details/80996427
 #------------------------
